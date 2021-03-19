@@ -62,7 +62,7 @@ header ul, header li {
 
 .intro__bg {
     height: 715px;
-    background: url('/img/intro-bg.jpg');
+    background: url('../img/intro-bg.jpg');
 }
 
 .header__content {
