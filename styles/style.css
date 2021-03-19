@@ -161,7 +161,7 @@ section.about {
     display: flex;
 }
 .about-img {
-    background: url('/img/about.png') no-repeat;
+    background: url('../img/about.png') no-repeat;
     min-width: 445px;
     height: 480px;
     margin-right: 62px;
@@ -247,19 +247,19 @@ ul.achieves__list {
 }
 
 .portfolio__item.one {
-    background: url('/img/photo-1.png');
+    background: url('../img/photo-1.png');
 }
 
 .portfolio__item.two {
-    background: url('/img/photo-2.png');
+    background: url('../img/photo-2.png');
 }
 
 .portfolio__item.three {
-    background: url('/img/photo-3.png');
+    background: url('../img/photo-3.png');
 }
 
 .portfolio__item.four {
-    background: url('/img/photo-4.png');
+    background: url('../img/photo-4.png');
 }
 
 
@@ -457,7 +457,7 @@ form {
 }
 
 .map {
-    background: url('/img/map.png');
+    background: url('../img/map.png');
     width: 590px;
     height: 624px; 
     margin-top: -50px;
